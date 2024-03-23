@@ -1,7 +1,7 @@
 '''
 Este codigo recrea el juego del Bingo
 '''
-from bingo import Carton
+from bingolibr import Carton
 
 def menu_principal():
     print("Bienvenido al juego de Bingo modificado")
